@@ -71,9 +71,8 @@ quizzy/
 
 ##OUTPUT
 
+<img width="1918" height="912" alt="Image" src="https://github.com/user-attachments/assets/37066404-6fdb-4d7f-900b-5f858f8275bb" />
 
-<img width="1918" height="912" alt="Image" src="https://github.com/user-attachments/assets/e46cfc3b-0c88-4358-92ad-2ffde263dbf3" />
+<img width="1919" height="912" alt="Image" src="https://github.com/user-attachments/assets/6abe8148-0849-4f5f-b1d4-2958855914fd" />
 
-<img width="1919" height="912" alt="Image" src="https://github.com/user-attachments/assets/17513f86-cf6b-436d-8d1c-51357d992afc" />
-
-<img width="1900" height="897" alt="Image" src="https://github.com/user-attachments/assets/b0d17cae-63d5-4d03-a96f-fccaa7463def" />
+<img width="1900" height="897" alt="Image" src="https://github.com/user-attachments/assets/6f2ec470-9466-46eb-964e-0cd00a4ec2f3" />
